@@ -1,0 +1,21 @@
+source,target,value
+Direct,Awareness,344
+Social Media,Awareness,278
+Email,Awareness,192
+Search Engine,Awareness,410
+Referral,Awareness,145
+Social Media,Interest,422
+Direct,Interest,310
+Email,Interest,188
+Search Engine,Interest,256
+Referral,Interest,167
+Direct,Consideration,136
+Social Media,Consideration,214
+Email,Consideration,120
+Search Engine,Consideration,178
+Referral,Consideration,99
+Direct,Purchase,88
+Social Media,Purchase,76
+Email,Purchase,52
+Search Engine,Purchase,104
+Referral,Purchase,41
